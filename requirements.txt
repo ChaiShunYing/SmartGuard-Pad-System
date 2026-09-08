@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+insightface
+onnxruntime
+opencv-python-headless
+numpy
+firebase-admin>=6.5.0
+google-cloud-firestore>=2.16.0
